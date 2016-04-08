@@ -1,0 +1,71 @@
+# Header
+menu:
+  主页: /
+  归档: /archives/
+  相册: /photos/
+  生活: /life/
+  关于: /about/
+
+# SubNav
+subnav:
+  github: "https://github.com/joway"
+  weibo: "http://weibo.com/670425438"
+  # rss: "https://joway.wang/atom.xml"
+  zhihu: "https://www.zhihu.com/people/Joway"
+  # douban: "https://www.douban.com/people/54019708/"
+  #mail: "#"
+  #facebook: "#"
+  #google: "#"
+  twitter: "https://twitter.com/JowayW"
+  #linkedin: "#"
+
+rss: /atom.xml
+
+# Content
+excerpt_link: more
+fancybox: false
+mathjax: true
+
+# 是否开启动画效果
+animate: true
+
+# 是否在新窗口打开链接
+open_in_new: false
+
+# Miscellaneous
+# google_analytics: 'UA-53624533-5'
+favicon: /favicon.png
+
+#你的头像url
+avatar: /assets/img/logo.jpg
+#是否开启分享
+share_jia: false
+share_addthis: false
+#是否开启多说评论，填写你在多说申请的项目名称 duoshuo: duoshuo-key
+#若使用disqus，请在博客config文件中填写disqus_shortname，并关闭多说评论
+duoshuo: false
+#是否开启云标签
+tagcloud: true
+
+widgets:
+- weibo
+
+
+#是否开启友情链接
+#不开启——
+# friends: true
+#开启——
+friends:
+  My Tech Blog: https://joway.wang
+  My Life Blog: https://blog.joway.wang
+  Wiki : http://wiki.joway.wang
+
+#是否开启“关于我”。
+#不开启——
+# aboutme: true
+#开启——
+aboutme: 折腾爱好者 && 伪文艺青年 && 中二病患者 && 代码搬运工、胶水匠 && 单身汪
+
+
+swift_search:
+  enable: true
